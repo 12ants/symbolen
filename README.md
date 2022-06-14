@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning ... Github
+
+- ⚡ Fun fact: ... You can follow me on codepen to see my current experiments and other nonsene codepen.io/konceptet ...
+
+
 <!--
 **symbolen/symbolen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
